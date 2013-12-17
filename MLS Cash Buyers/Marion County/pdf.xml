@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="1" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="2" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="3" size="11" family="Helvetica" color="#000000"/>
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490631123053000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="210" height="11" font="2">5214 W 14TH ST INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490631123053000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9003027</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.12</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1929</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>40</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">140</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="124" height="11" font="2">RAGSDALE CHERYL L</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="224" height="11" font="2">5214 W 14TH ST INDIANAPOLIS IN 46224</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="224" height="11" font="2">5214 W 14TH ST INDIANAPOLIS IN 46224</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$14,100</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$107,800.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="44" height="11" font="2">$93,700</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$66,980</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$107,800</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$40,820</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>04/04/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$575.66</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$21,980.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,412</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">768</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,412</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="7" height="11" font="2">0</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="30" height="11" font="2">1,412</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="30" height="11" font="2">1,412</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="227" height="11" font="2">SPEEDWAY CITY SECOND SECTION L501</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490631102005000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="227" height="11" font="2">1621 N AUBURN ST INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490631102005000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9024912</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.22</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1939</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>55</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">180</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="265" height="11" font="2">FEDERAL NATIONAL MORTGAGE ASSOCIATION</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="310" height="11" font="2">14221 DALLAS PKWY STE 1000 DALLAS TX 752542946</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="315" height="11" font="2">14221 DALLAS PKWY STE 1000 DALLAS TX 75254-2946</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$24,000</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$128,300.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="51" height="11" font="2">$104,300</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$73,980</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$128,300</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$54,320</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>04/05/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$766.32</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$28,980.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,350</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">360</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,350</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="20" height="11" font="2">200</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="7" height="11" font="2">0</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="30" height="11" font="2">1,350</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="30" height="11" font="2">1,350</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="30" height="11" font="2">1,350</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="30" height="11" font="2">1,350</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="155" height="11" font="2">ST CHRISTOPHER RESUB L6</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490536125056000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="203" height="11" font="2">5803 BUICK DR INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490536125056000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9030672</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.21</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1954</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>80</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">115</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="112" height="11" font="2">COMELLA CECILIA R</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="216" height="11" font="2">5803 BUICK DR INDIANAPOLIS IN 46224</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="216" height="11" font="2">5803 BUICK DR INDIANAPOLIS IN 46224</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$16,800</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="61" height="11" font="2">$96,600.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="44" height="11" font="2">$79,800</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$75,295</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="44" height="11" font="2">$96,600</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$21,305</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>04/22/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$300.86</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="61" height="11" font="2">$12,480.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$17,815.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,384</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">280</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="118" height="11" font="2">Garage- Attached- Br</text>
+<text top="602" left="230" width="30" height="11" font="2">1,384</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="30" height="11" font="2">1,252</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="7" height="11" font="2">0</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="7" height="11" font="2">0</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="252" height="11" font="2">SPEEDWAY CUNNINGHAM PK AMENDED L101</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490536111052000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="246" height="11" font="2">1808 CHRISTOPHER LN INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490536111052000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9026668</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.14</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1941</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>52</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">120</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="265" height="11" font="2">FEDERAL NATIONAL MORTGAGE ASSOCIATION</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="310" height="11" font="2">14221 DALLAS PKWY STE 1000 DALLAS TX 752542946</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="315" height="11" font="2">14221 DALLAS PKWY STE 1000 DALLAS TX 75254-2946</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$11,800</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$115,900.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="51" height="11" font="2">$104,100</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$69,815</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$115,900</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$46,085</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>02/14/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$649.91</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$24,815.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,265</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">660</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,265</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="20" height="11" font="2">441</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="20" height="11" font="2">375</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="20" height="11" font="2">890</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="20" height="11" font="2">890</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="189" height="11" font="2">SCHLOSS HOME PL 6TH SEC L374</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490631109045000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="227" height="11" font="2">1616 GERRARD AV INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490631109045000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9025059</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.14</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1938</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>50</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">122</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="244" height="11" font="2">COMPTON SANDRA L &amp; JAMES E BARTLETT</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="330" height="11" font="2">6758 W COUNTY ROAD 300 N GREENCASTLE IN 461357978</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="334" height="11" font="2">6758 W COUNTY ROAD 300 N GREENCASTLE IN 46135-7978</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$18,200</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$103,500.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="44" height="11" font="2">$85,300</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$68,475</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$103,500</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$35,025</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>04/03/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$493.93</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="54" height="11" font="2">$3,000.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$20,475.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,144</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">360</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,144</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="7" height="11" font="2">0</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="30" height="11" font="2">1,144</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="30" height="11" font="2">1,144</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="207" height="11" font="2">SCHLOSS HOME PLACE 2ND SEC L78</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490631109004000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="227" height="11" font="2">1647 GERRARD AV INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490631109004000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9002965</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.14</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1938</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>50</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">122</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="100" height="11" font="2">BRIGHT MARCIA L</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="268" height="11" font="2">1647 GERRARD AV INDIANAPOLIS IN 462245635</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="279" height="11" font="2">1647 GERRARD AVE INDIANAPOLIS IN 46224-5635</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="44" height="11" font="2">$18,200</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$105,200.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="44" height="11" font="2">$87,000</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$68,930</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$105,200</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$36,270</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>05/07/1998</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$511.72</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="54" height="11" font="2">$3,000.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$20,930.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,187</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">240</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,187</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="20" height="11" font="2">320</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="20" height="11" font="2">867</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="20" height="11" font="2">867</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="210" height="11" font="2">SCHLOSS HOME PLACE 2ND SEC L 84</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="66" left="329" width="261" height="17" font="0"><b>Marion COUNTY TAX REPORT</b></text>
+<text top="96" left="63" width="178" height="11" font="1"><b>StateID#: 490630101368000914</b></text>
+<text top="96" left="459" width="129" height="11" font="2">/ TOWN OF SPEEDWAY</text>
+<text top="96" left="648" width="155" height="11" font="1"><b>County FIPS Code: </b>18097</text>
+<text top="136" left="63" width="111" height="11" font="1"><b>Property Address</b></text>
+<text top="136" left="225" width="211" height="11" font="2">5217 W 22ND ST INDIANAPOLIS 46224</text>
+<text top="136" left="540" width="257" height="11" font="1"><b>18 Digit State Parcel #: </b>490630101368000914</text>
+<text top="154" left="63" width="61" height="11" font="1"><b>Township</b></text>
+<text top="154" left="225" width="44" height="11" font="2">WAYNE</text>
+<text top="154" left="540" width="110" height="11" font="1"><b>Old County Tax ID:</b></text>
+<text top="154" left="674" width="47" height="11" font="2">9031171</text>
+<text top="170" left="541" width="51" height="11" font="1"><b>Acreage</b></text>
+<text top="170" left="675" width="24" height="11" font="2">0.22</text>
+<text top="172" left="63" width="58" height="11" font="1"><b>Year Built</b></text>
+<text top="172" left="225" width="27" height="11" font="2">1951</text>
+<text top="190" left="63" width="126" height="11" font="1"><b>Land Type (1) / Code</b></text>
+<text top="190" left="225" width="66" height="11" font="2">Homesite / 9</text>
+<text top="190" left="541" width="148" height="11" font="1"><b>Parcel Frontage 1 &amp; 2 </b>80</text>
+<text top="207" left="541" width="110" height="11" font="1"><b>Parcel Depth 1 &amp; 2</b></text>
+<text top="208" left="63" width="126" height="11" font="1"><b>Land Type (2) / Code</b></text>
+<text top="208" left="675" width="20" height="11" font="2">120</text>
+<text top="225" left="542" width="53" height="11" font="1"><b>Lot Size:</b></text>
+<text top="226" left="63" width="123" height="11" font="1"><b>Property Use / Code</b></text>
+<text top="226" left="225" width="231" height="11" font="2">RES ONE FAMILY PLATTED LOT-510 / 510</text>
+<text top="226" left="675" width="44" height="11" font="2">0.00 AC</text>
+<text top="262" left="63" width="41" height="11" font="1"><b>Owner</b></text>
+<text top="262" left="225" width="453" height="11" font="2">AMERICAN ESTATE &amp; TRUST LC FBO BRETT DEAN 56% FBO KARA DEAN 44% INT</text>
+<text top="280" left="63" width="98" height="11" font="1"><b>Owner Address</b></text>
+<text top="280" left="225" width="308" height="11" font="2">515 E 4500 S STE G200 SALT LAKE CITY UT 841074503</text>
+<text top="298" left="63" width="126" height="11" font="1"><b>Tax Mailing Address</b></text>
+<text top="298" left="225" width="313" height="11" font="2">515 E 4500 S STE G200 SALT LAKE CITY UT 84107-4503</text>
+<text top="343" left="63" width="139" height="11" font="1"><b>Assessed Value Land:</b></text>
+<text top="343" left="230" width="37" height="11" font="2">$6,400</text>
+<text top="343" left="446" width="147" height="11" font="1"><b>Gross Assessed Value:</b></text>
+<text top="343" left="675" width="68" height="11" font="2">$101,000.00</text>
+<text top="361" left="63" width="154" height="11" font="1"><b>Assd Val Improvements:</b></text>
+<text top="361" left="230" width="44" height="11" font="2">$94,600</text>
+<text top="361" left="446" width="107" height="11" font="1"><b>Total Deductions:</b></text>
+<text top="362" left="675" width="44" height="11" font="2">$67,600</text>
+<text top="379" left="63" width="139" height="11" font="1"><b>Total Assessed Value:</b></text>
+<text top="379" left="230" width="51" height="11" font="2">$101,000</text>
+<text top="379" left="446" width="129" height="11" font="1"><b>Net Assessed Value:</b></text>
+<text top="379" left="675" width="44" height="11" font="2">$33,400</text>
+<text top="393" left="64" width="114" height="11" font="1"><b>Assessment Date:</b></text>
+<text top="397" left="446" width="211" height="11" font="1"><b>Semi-Annual Storm &amp; Solid Waste:</b></text>
+<text top="397" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="415" left="446" width="159" height="11" font="1"><b>Semi-Annual Stormwater:</b></text>
+<text top="426" left="64" width="231" height="11" font="1"><b>Last Change of Ownership: </b>04/05/2013</text>
+<text top="433" left="446" width="160" height="11" font="1"><b>Semi-Annual Tax Amount:</b></text>
+<text top="433" left="675" width="44" height="11" font="2">$471.02</text>
+<text top="447" left="235" width="14" height="11" font="2">$0</text>
+<text top="448" left="65" width="88" height="11" font="1"><b>Net Sale Price:</b></text>
+<text top="450" left="676" width="27" height="11" font="2">2013</text>
+<text top="451" left="447" width="160" height="11" font="1"><b>Tax Year Due and Payable:</b></text>
+<text top="494" left="230" width="61" height="11" font="2">$45,000.00</text>
+<text top="496" left="63" width="70" height="11" font="1"><b>Homestead</b></text>
+<text top="496" left="486" width="48" height="11" font="1"><b>Old Age</b></text>
+<text top="496" left="675" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="63" width="142" height="11" font="1"><b>Veteran Total Disability</b></text>
+<text top="514" left="230" width="30" height="11" font="2">$0.00</text>
+<text top="514" left="486" width="59" height="11" font="1"><b>Mortgage</b></text>
+<text top="514" left="675" width="54" height="11" font="2">$3,000.00</text>
+<text top="534" left="63" width="123" height="11" font="1"><b>Other/Supplemental</b></text>
+<text top="534" left="230" width="61" height="11" font="2">$19,600.00</text>
+<text top="582" left="63" width="70" height="11" font="1"><b>Living Area</b></text>
+<text top="582" left="230" width="30" height="11" font="2">1,364</text>
+<text top="582" left="486" width="86" height="11" font="1"><b>Garage 1 Area</b></text>
+<text top="582" left="675" width="20" height="11" font="2">752</text>
+<text top="600" left="63" width="76" height="11" font="1"><b>Level 1 Area</b></text>
+<text top="600" left="486" width="91" height="11" font="1"><b>Garage 1 Desc.</b></text>
+<text top="600" left="675" width="96" height="11" font="2">Detached Garage</text>
+<text top="602" left="230" width="30" height="11" font="2">1,364</text>
+<text top="618" left="63" width="76" height="11" font="1"><b>Level 2 Area</b></text>
+<text top="618" left="230" width="7" height="11" font="2">0</text>
+<text top="618" left="486" width="86" height="11" font="1"><b>Garage 2 Area</b></text>
+<text top="618" left="675" width="7" height="11" font="2">0</text>
+<text top="636" left="63" width="76" height="11" font="1"><b>Level 3 Area</b></text>
+<text top="636" left="230" width="7" height="11" font="2">0</text>
+<text top="636" left="486" width="91" height="11" font="1"><b>Garage 2 Desc.</b></text>
+<text top="654" left="63" width="76" height="11" font="1"><b>Level 4 Area</b></text>
+<text top="654" left="486" width="86" height="11" font="1"><b>Garage 3 Area</b></text>
+<text top="654" left="675" width="7" height="11" font="2">0</text>
+<text top="656" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="63" width="147" height="11" font="1"><b>Half Story Finished Area</b></text>
+<text top="672" left="230" width="7" height="11" font="2">0</text>
+<text top="672" left="486" width="91" height="11" font="1"><b>Garage 3 Desc.</b></text>
+<text top="690" left="63" width="57" height="11" font="1"><b>Loft Area</b></text>
+<text top="690" left="230" width="7" height="11" font="2">0</text>
+<text top="690" left="486" width="116" height="11" font="1"><b>Intgrl. Garage Area</b></text>
+<text top="690" left="675" width="7" height="11" font="2">0</text>
+<text top="710" left="63" width="94" height="11" font="1"><b>Rec Room Area</b></text>
+<text top="710" left="230" width="7" height="11" font="2">0</text>
+<text top="710" left="486" width="120" height="11" font="1"><b>Intgrl. Garage Desc.</b></text>
+<text top="730" left="63" width="128" height="11" font="1"><b>Enclosed Porch Area</b></text>
+<text top="730" left="230" width="7" height="11" font="2">0</text>
+<text top="730" left="486" width="109" height="11" font="1"><b>Crawl Space Area</b></text>
+<text top="730" left="675" width="30" height="11" font="2">1,364</text>
+<text top="750" left="63" width="60" height="11" font="1"><b>Attic Area</b></text>
+<text top="750" left="230" width="7" height="11" font="2">0</text>
+<text top="750" left="486" width="95" height="11" font="1"><b>Basement Area</b></text>
+<text top="750" left="675" width="7" height="11" font="2">0</text>
+<text top="771" left="63" width="117" height="11" font="1"><b>Finished Attic Area</b></text>
+<text top="771" left="230" width="7" height="11" font="2">0</text>
+<text top="771" left="486" width="125" height="11" font="1"><b>Finished Bsmt. Area</b></text>
+<text top="771" left="675" width="7" height="11" font="2">0</text>
+<text top="791" left="63" width="130" height="11" font="1"><b>Unfinished Attic Area</b></text>
+<text top="791" left="230" width="7" height="11" font="2">0</text>
+<text top="791" left="486" width="138" height="11" font="1"><b>Unfinished Bsmt. Area</b></text>
+<text top="791" left="675" width="7" height="11" font="2">0</text>
+<text top="838" left="68" width="108" height="11" font="1"><b>Legal Description</b></text>
+<text top="840" left="188" width="135" height="11" font="2">SPEEDWAY MANOR L22</text>
+<text top="879" left="68" width="101" height="11" font="1"><b>Data Import Date</b></text>
+<text top="879" left="182" width="61" height="11" font="2">06/19/2013</text>
+<text top="910" left="68" width="321" height="11" font="2">Information is Believed To Be Accurate But Not Guaranteed</text>
+<text top="910" left="820" width="39" height="11" font="1"><b>MIBOR</b></text>
+<text top="955" left="338" width="68" height="11" font="2">Report Date:</text>
+<text top="955" left="424" width="190" height="11" font="2">Tuesday, October 8, 2013 9:42 PM</text>
+<text top="96" left="311" width="108" height="11" font="1"><b>Tax Code/District:</b></text>
+<text top="96" left="432" width="20" height="11" font="1"><b>914</b></text>
+<text top="119" left="63" width="132" height="12" font="3"><b>Property Information</b></text>
+<text top="245" left="63" width="182" height="12" font="3"><b>Owner/Taxpayer Information</b></text>
+<text top="317" left="63" width="142" height="12" font="3"><b>Market Values / Taxes</b></text>
+<text top="479" left="63" width="75" height="12" font="3"><b>Exemptions</b></text>
+<text top="555" left="61" width="212" height="12" font="3"><b>Detailed Dwelling Characteristics</b></text>
+<text top="812" left="61" width="111" height="12" font="3"><b>Legal Description</b></text>
+</page>
+</pdf2xml>
