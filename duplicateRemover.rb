@@ -10,7 +10,7 @@ headers = all_headers[0...4] << "Same" << all_headers[5] << "# Owns"
 def checkUniqueness row, unique_rows
 	unique_rows.each do |ur|
 		check = row[0] || ""
-		puts "Comparing '#{check}' with  '#{ur[0]}'"
+		# puts "Comparing '#{check}' with  '#{ur[0]}'"
 		if check == ""
 			puts "No mailing address ... "
 			return false
