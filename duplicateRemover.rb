@@ -2,33 +2,47 @@ require 'rubygems'
 require 'spreadsheet'
 require 'similar_text'
 
+def get_street_number address
+	return address[/\d+/]
+end
+
+def checkUniqueness address, unique_rows
+	if address.nil?
+		puts "\tNo address available."
+		return false
+	else
+		addr_sn = get_street_number address
+		puts "\tStreet #: #{addr_sn}"
+		unique_rows.each do |ur|
+			ex_addr_sn = get_street_number ur[0]
+			if addr_sn == ex_addr_sn
+				puts "\tStreet # matched."
+				addr = address.split(" ")[1..-1].join(" ")
+				ex_addr = ur[0].split(" ")[1..-1].join(" ")
+				if addr.similar(ex_addr) > 80
+					puts "\t#{address} is similar to #{ur[0]}"
+					return false
+				end
+			end
+		end
+	end
+
+	puts "\tUniqueness confirmed."
+	return true
+end
+
 source_xls = Spreadsheet.open 'MLS Cash Buyers/main_properties.xls'
 source_sheet = source_xls.worksheet 0
 all_headers = source_sheet.row(0)
 headers = all_headers[0...4] << "Same" << all_headers[5] << "# Owns"
 
-def checkUniqueness row, unique_rows
-	unique_rows.each do |ur|
-		check = row[0] || ""
-		# puts "Comparing '#{check}' with  '#{ur[0]}'"
-		if check == ""
-			puts "No mailing address ... "
-			return false
-		elsif check.similar(ur[0]) > 65
-			puts "#{ur[0]} is similar to #{check}"
-			return false
-		end
-	end
-	puts "Uniqueness confirmed.\n"
-	return true
-end
-
 unique_rows = [] 
 
 source_sheet.each 1 do |row|
 	info = row[0..4] << row[5]
-	puts "\n\tChecking '#{info[0]}' for uniqueness ... "
-	unique_rows << info if checkUniqueness info, unique_rows
+	puts "================================================================="
+	puts "Checking '#{info[0]}' for uniqueness:"
+	unique_rows << info if checkUniqueness info[0], unique_rows
 end
 
 unique_book = Spreadsheet::Workbook.new
